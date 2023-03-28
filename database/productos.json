@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Remera Nike 1",
+    "description": "Naiki One.",
+    "price": 7000,
+    "thumbnail": "https://media.solodeportes.com.ar/media/catalog/product/cache/3cb7d75bc2a65211451e92c5381048e9/r/e/remera-nike-reverse-2-season-amarilla-510020cu9103735-1.jpg",
+    "code": "A001",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "Remera Nike 2",
+    "description": "Naiki Two.",
+    "price": 8000,
+    "thumbnail": "https://media.solodeportes.com.ar/media/catalog/product/cache/3cb7d75bc2a65211451e92c5381048e9/r/e/remera-nike-hbr-open-blanca-510020dr7813100-1.jpg",
+    "code": "A002",
+    "stock": 10
+  }
+]
