@@ -1,8 +1,8 @@
-const fs = require("fs")
+import fs from 'fs';
 
 class ProductManager {
     constructor() {
-        this.products = []
+        this.products = ['products']
         this.path = "./database/productos.json"
     }
 
